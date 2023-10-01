@@ -6,7 +6,7 @@ const axios = _.create({
     'Accept': 'application/json'
   },
   'params': {
-    'api_key': 'ef1d0e84ed09b0da5c05b5b72abc088a'
+    'api_key': 'API_KEY_HERE'
   },
   'baseURL': 'https://api.themoviedb.org/3'
 });
